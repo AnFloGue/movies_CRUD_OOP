@@ -1,0 +1,52 @@
+{
+    "The Shawshank Redemption": {
+        "rating": 9.5,
+        "year": 1994,
+        "genre": "Prison Drama"
+    },
+    "Pulp Fiction": {
+        "rating": 88.0,
+        "year": 1994,
+        "genre": "Crime Comedy"
+    },
+    "The Room": {
+        "rating": 3.6,
+        "year": 2003,
+        "genre": "Independent Dramedy (so bad it's good)"
+    },
+    "The Godfather": {
+        "rating": 9.2,
+        "year": 1972,
+        "genre": "Gangster Epic"
+    },
+    "The Godfather: Part II": {
+        "rating": 9.0,
+        "year": 1974,
+        "genre": "Gangster Epic"
+    },
+    "The Dark Knight": {
+        "rating": 9.0,
+        "year": 2008,
+        "genre": "Neo-noir Superhero"
+    },
+    "12 Angry Men": {
+        "rating": 8.9,
+        "year": 1957,
+        "genre": "Juror Drama"
+    },
+    "Everything Everywhere All At Once": {
+        "rating": 8.9,
+        "year": 2022,
+        "genre": "Sci-Fi Action-Comedy"
+    },
+    "Forrest Gump": {
+        "rating": 8.8,
+        "year": 1994,
+        "genre": "Historical Drama"
+    },
+    "Star Wars: Episode V": {
+        "rating": 8.7,
+        "year": 1980,
+        "genre": "Space Opera"
+    }
+}
